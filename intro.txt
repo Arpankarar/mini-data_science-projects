@@ -1,4 +1,15 @@
-                      wait for few days
+                      
+
+recently added a stock history checking webapp using streamlit.
+
+stay tuned for more such apps.
+
+
+
+
+
+
+wait for few days
 
                       work in progress !!
 
