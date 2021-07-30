@@ -1,7 +1,7 @@
                       
 
 recently added a stock history checking webapp using streamlit.
-
+recently added a DNA nucleotide count webapp using streamlit.
 stay tuned for more such apps.
 
 
